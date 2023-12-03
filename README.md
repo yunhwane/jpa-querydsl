@@ -1,5 +1,6 @@
 # JPA 기본 정리 
-- [PROXY] 
+- [프록시](https://github.com/yunhwane/jpa-querydsl/blob/main/proxy.md)
+
 
 # jpa 튜닝 과정 정리 
 - 조회 성능 최적화 
