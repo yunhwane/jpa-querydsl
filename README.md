@@ -1,4 +1,5 @@
-# JPA 기본 정리 
+# JPA 기본 정리
+- [영속성 컨텍스트](https://github.com/yunhwane/jpa-querydsl/blob/main/%EC%98%81%EC%86%8D%EC%84%B1%EC%BB%A8%ED%85%8D%EC%8A%A4%ED%8A%B8.md)
 - [프록시](https://github.com/yunhwane/jpa-querydsl/blob/main/proxy.md)
 
 
